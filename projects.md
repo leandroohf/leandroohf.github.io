@@ -84,11 +84,14 @@ producing regions.
 
 Below is an example of the output of the classifier running in a public data.
 
-* Ground truth: 
-<img src="{{ site.baseurl }}/images/crop_recognition_roi_labels.png" alt="Region of interest grounf truth" width="300" height="150">
+* Ground truth:  
 
-* Prediction class:
-<img src="{{ site.baseurl }}/images/crop_recognition_roi_pred.png" alt="Region of interest predicted classes" width="300" height="150">
+
+<img src="{{ site.baseurl }}/images/crop_recognition_roi_labels.png" alt="Region of interest grounf truth" width="300" height="150">  
+
+* Prediction class:  
+
+<img src="{{ site.baseurl }}/images/crop_recognition_roi_pred.png" alt="Region of interest predicted classes" width="300" height="150">  
 
 
 # Wrinkle Analysis
