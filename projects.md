@@ -16,6 +16,15 @@ Also you are more than welcome to explore my [github](https://github.com/leandro
 * [Algorithm repo](https://github.com/leandroohf/algorithms_and_data_structures)
 
 
+# Voicedoubles
+
+**WIP**
+
+Voice similarity search engine (text-independent) robust to noise, music,
+reverberation and language. This project was based on academic papers an reached
+state of the art in speaker. The engine is DNN model and also utilizes
+Embeddings developed in kaldi and python scikit-learning.
+
 
 # Speaker recognition
 
@@ -68,16 +77,21 @@ algorithms under this situation.
 
 # Crop Recognition and Crop date determination
 
-**WIP**
-
 Crop Recognition and Automatic Determination of the Planting Date
 project (developed in **IDL**) which analyzes satellite images in
 order to determine planting dates and the crop type planted in the
 producing regions.
 
-# Wrinkle Analysis
+Below is an example of the output of the classifier running in a public data.
 
-**WIP**
+* Ground truth: 
+<img src="{{ site.baseurl }}/images/crop_recognition_roi_labels.png" alt="Region of interest grounf truth" width="300" height="150">
+
+* Prediction class:
+<img src="{{ site.baseurl }}/images/crop_recognition_roi_pred.png" alt="Region of interest predicted classes" width="300" height="150">
+
+
+# Wrinkle Analysis
 
 I developed an image processing algorithm (**C, OpenCv**)to extract
 facial wrinkles. A score was attributed to the wrinkles and these data
@@ -89,7 +103,6 @@ age.
 
 # Magnetic noise attenuation system
 
-**WIP**
 
 Magnetic noise attenuation system: In this project, I designed a
 compensation coil in order to reduce magnetic noise in magnetic
@@ -97,8 +110,6 @@ resonance scanner room. Also, I worked on the implementation of the
 attenuation algorithm (C) deployed in **DSPIC**.
 
 # RAoP
-
-**WIP**
 
 In this project data from online community Random Act of Pizza
 ([RAoP](https://www.reddit.com/r/Random_Acts_Of_Pizza/)) forum was
