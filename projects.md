@@ -86,10 +86,16 @@ Below is an example of the output of the classifier running in a public data.
 
 * Ground truth:  
 
+</br> 
+
 
 <img src="{{ site.baseurl }}/images/crop_recognition_roi_labels.png" alt="Region of interest grounf truth" width="300" height="150">  
 
+</br>  
+
 * Prediction class:  
+
+</br> 
 
 <img src="{{ site.baseurl }}/images/crop_recognition_roi_pred.png" alt="Region of interest predicted classes" width="300" height="150">  
 
