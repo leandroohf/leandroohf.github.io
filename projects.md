@@ -171,4 +171,5 @@ visualization since the real image is inverted in the retina.
 
 <img src="{{ site.baseurl }}/images/lena_normal.png" alt="Lena normal" width="200" height="200">
 
-<img src="{{ site.baseurl }}/images/lena_ceratocone.png" alt="Lena normal" width="200" height="200">
+<img src="{{ site.baseurl }}/images/lena_ceratocone.png" alt="Lena normal" width="200" height="200"> 
+
