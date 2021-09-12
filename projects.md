@@ -15,7 +15,7 @@ Also you are more than welcome to explore my [github](https://github.com/leandro
 
 * [Statistics repo](https://github.com/leandroohf/statistics): GLM, Probs, A/B testing and [EDA Start kit (R)](https://github.com/leandroohf/R_EDA_start_kit)
 
-* [Algorithm repo](https://github.com/leandroohf/algorithms_and_data_structures)
+* [Algorithm repo](https://github.com/leandroohf/algorithms_and_data_structures): QuickSort, MergeSort, HeapSort, Linked Lists, Circular Queue, Graph and etc
 
 
 # Voicedoubles
