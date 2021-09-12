@@ -18,7 +18,6 @@ Also you are more than welcome to explore my [github](https://github.com/leandro
 
 * [Algorithm repo](https://github.com/leandroohf/algorithms_and_data_structures): QuickSort, MergeSort, HeapSort, Linked Lists, Circular Queue, Graph and etc
 
-
 # Voicedoubles
 
 **WIP**
