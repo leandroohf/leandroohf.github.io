@@ -13,6 +13,8 @@ Also you are more than welcome to explore my [github](https://github.com/leandro
 * [machi learning repo](https://github.com/leandroohf/machine_learning_algorithms): [GMM](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_gmm_n_em.ipynb),
 [Fisher's LDA](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_fishers_lda.ipynb), [LDA](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_lda.ipynb), [EDA STart kit](https://github.com/leandroohf/R_EDA_start_kit) and etc.
 
+* [Statistics repo](https://github.com/leandroohf/statistics)
+
 * [Algorithm repo](https://github.com/leandroohf/algorithms_and_data_structures)
 
 
