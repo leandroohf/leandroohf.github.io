@@ -10,7 +10,7 @@ companies.
 
 
 Also you are more than welcome to explore my [github](https://github.com/leandroohf): 
-* [machine learning repo](https://github.com/leandroohf/machine_learning_algorithms): [GMM](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_gmm_n_em.ipynb),
+* [machine learning repo](https://github.com/leandroohf/machine_learning_algorithms): [intro_gradient_algos](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_gradient_algos.ipynb)[GMM](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_gmm_n_em.ipynb),
 [Fisher's LDA](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_fishers_lda.ipynb), [LDA](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_lda.ipynb), [knn nearest neighbor](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_KNN.ipynb),
 [Calibration Curves](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_calibration_curve.ipynb) and etc.
 
@@ -24,8 +24,8 @@ Also you are more than welcome to explore my [github](https://github.com/leandro
 
 Voice similarity search engine (text-independent) robust to noise, music,
 reverberation and language. This project was based on academic papers an reached
-state of the art in speaker. The engine is DNN model and also utilizes
-Embeddings developed in kaldi and python scikit-learning.
+state of the art (**SOTA**) in speaker recognition. The engine is DNN model and
+also utilizes Embeddings developed in kaldi and python scikit-learning.
 
 
 # Speaker recognition
@@ -88,16 +88,11 @@ Below is an example of the output of the classifier running in a public data.
 
 * Ground truth:  
 
-</br> 
-
-
 <img src="{{ site.baseurl }}/images/crop_recognition_roi_labels.png" alt="Region of interest grounf truth" width="300" height="150">  
 
-</br>  
 
 * Prediction class:  
 
-</br> 
 
 <img src="{{ site.baseurl }}/images/crop_recognition_roi_pred.png" alt="Region of interest predicted classes" width="300" height="150">  
 
@@ -113,7 +108,6 @@ company to recommend products to their clients based on their skin
 age.
 
 # Magnetic noise attenuation system
-
 
 Magnetic noise attenuation system: In this project, I designed a
 compensation coil in order to reduce magnetic noise in magnetic
@@ -147,7 +141,7 @@ phenomena of the human visual system. To accomplish that, I worked by
 manipulating 3d meshes implementing algorithms such as **"door-in
 door-out"**, developed realistic ray traces algorithms and schematics
 models of the human eye was built and in addition in-vivo data
-obtained from corneal topography machine was introduced in these
+obtained from corneal topography scanner was introduced in these
 models allowing the framework to determine optical properties of real
 cornea's topologies such as dioptric power, high order aberrations
 using **Zernike’s polynomials** and Point spread function (**PSF**)
