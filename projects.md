@@ -10,7 +10,7 @@ companies.
 
 
 Also you are more than welcome to explore my [github](https://github.com/leandroohf): 
-* [machine learning repo](https://github.com/leandroohf/machine_learning_algorithms): [intro_gradient_algos](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_gradient_algos.ipynb)[GMM](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_gmm_n_em.ipynb),
+* [machine learning repo](https://github.com/leandroohf/machine_learning_algorithms): [intro_gradient_algos](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_gradient_algos.ipynb), [GMM](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_gmm_n_em.ipynb),
 [Fisher's LDA](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_fishers_lda.ipynb), [LDA](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_lda.ipynb), [knn nearest neighbor](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_KNN.ipynb),
 [Calibration Curves](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_calibration_curve.ipynb) and etc.
 
