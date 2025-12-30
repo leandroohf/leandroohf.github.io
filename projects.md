@@ -8,13 +8,23 @@ In this page there are examples of machine learning projects and
 predictive models that I worked with during my career in different
 companies.
 
+Also you are more than welcome to explore my [github](https://github.com/leandroohf):
 
-Also you are more than welcome to explore my [github](https://github.com/leandroohf): 
-* [machine learning repo](https://github.com/leandroohf/machine_learning_algorithms): [intro_gradient_algos](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_gradient_algos.ipynb), [GMM](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_gmm_n_em.ipynb),
-[Fisher's LDA](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_fishers_lda.ipynb), [LDA](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_lda.ipynb), [knn nearest neighbor](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_KNN.ipynb),
-[Calibration Curves](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_calibration_curve.ipynb) and etc.
+* [machine learning engineering](https://github.com/leandroohf/mlops):
+    * [stream data](https://github.com/leandroohf/mlops/tree/main/sensor_and_stream_data)
+    * [bike share](https://github.com/leandroohf/mlops/tree/main/bike_share_batch_prediction_simple)
+    * [astronomer/airflow](https://github.com/leandroohf/mlops/tree/main/astronomer_airflow)
+    * [vertexai](https://github.com/leandroohf/mlops/tree/main/vertexai) and more 
+* [machine learning repo](https://github.com/leandroohf/machine_learning_algorithms):
+    * [intro_gradient_algos](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_gradient_algos.ipynb),
+    * [GMM](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_gmm_n_em.ipynb),
+    * [Fisher's LDA](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_fishers_lda.ipynb),
+    * [LDA](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_lda.ipynb),
+    * [knn nearest neighbor](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_KNN.ipynb),
+    * [Calibration Curves](https://github.com/leandroohf/machine_learning_algorithms/blob/master/intro_calibration_curve.ipynb) and more.
 
-* [Statistics repo](https://github.com/leandroohf/statistics): GLM, Probs, A/B testing and [EDA Start kit (R)](https://github.com/leandroohf/R_EDA_start_kit)
+* [Statistics repo](https://github.com/leandroohf/statistics):
+    * GLM, Probs, A/B testing and [EDA Start kit (R)](https://github.com/leandroohf/R_EDA_start_kit)
 
 * [Algorithm repo](https://github.com/leandroohf/algorithms_and_data_structures): QuickSort, MergeSort, HeapSort, Linked Lists, Circular Queue, Graph and etc
 
